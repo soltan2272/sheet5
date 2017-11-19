@@ -14,7 +14,7 @@ INCLUDE io.h
 
    g4 BYTE "grade 4?",0
    w4 BYTE "weight 4? ",0
-
+   
    a DWORD ?
    b DWORD ?
    s1 DWORD ?
