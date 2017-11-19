@@ -9,7 +9,7 @@ INCLUDE io.h
    out4 BYTE "enter coins in quarters",0
    out5 BYTE "enter coins in  fifty-cent",0
    out6 BYTE "enter coins in  dollar ",0
-
+  
    p DWORD ?
    n DWORD ?
    de DWORD ?
