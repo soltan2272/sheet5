@@ -22,7 +22,7 @@ INCLUDE io.h
     input out1,str1,40
 	atod str1
 	mov fi,eax
-
+ 
 	input out2,str1,40
 	atod str1
 	mov s,eax
