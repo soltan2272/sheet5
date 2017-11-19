@@ -29,7 +29,7 @@ INCLUDE io.h
 	mov eax,y
 	imul eax,2
 	add eax,s
-
+  
 	dtoa opr,eax
 	output res,opr
 

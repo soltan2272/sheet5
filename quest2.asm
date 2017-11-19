@@ -32,7 +32,7 @@ INCLUDE io.h
 	add eax,y
 	imul eax,2
 	add eax,z
-
+        
 	dtoa opr,eax
 	output res,opr
 
