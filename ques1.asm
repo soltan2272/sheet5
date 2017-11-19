@@ -12,7 +12,6 @@ INCLUDE io.h
    s DWORD ?
    str1 BYTE 40 DUP (?)
    opr BYTE 11 DUP (?),0
-   opr1 BYTE 64 DUP (?),0
    res BYTE "the result is",0
 
 .CODE
